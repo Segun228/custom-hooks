@@ -1,4 +1,4 @@
-const { uniqueNamesGenerator, languages, animals } = require('unique-names-generator');
+import { uniqueNamesGenerator } from 'unique-names-generator';
 const adjectives = [
     'вкидной',
     'агрессивный',
